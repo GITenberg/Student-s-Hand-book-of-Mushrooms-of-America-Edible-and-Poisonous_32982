@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36141'
     url: http://www.gutenberg.org/2009/agents/36141
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32982#Student-s-Hand-book-of-Mushrooms-of-America-Edible-and-Poisonous
 gutenberg_bookshelf: Mycology
 gutenberg_issued: '2010-06-26'
 gutenberg_type: Text
